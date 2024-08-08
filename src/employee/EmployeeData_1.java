@@ -1,3 +1,5 @@
+package employee;
+
 /*Assignment - 1 : 25th May'2024 
 Employee class requirement : 
 Employee has name and id, it should be printable.
