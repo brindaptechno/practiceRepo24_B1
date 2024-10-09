@@ -5,8 +5,6 @@ Employee class requirement :
 Employee has name and id, it should be printable.
 Hint : name should be String, id should be int.*/ 
 
-package employee;
-
 public class EmployeeData_1 {
 
 	String name = "Brinda";
